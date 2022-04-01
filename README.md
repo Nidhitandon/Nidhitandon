@@ -5,12 +5,14 @@ I am a public policy professional conceptualizing solutions for digital and STEM
 **My LinkedIn**
 [LinkedIn](https://www.linkedin.com/in/nidhi-tandon/)
 
+- 🔭 I’m currently working at the University of Pennsylvania, School of Social Policy and Practice
+
 <!--
 **Nidhitandon/Nidhitandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at the University of Pennsylvania, School of Social Policy and Practice
+
 
 
 
